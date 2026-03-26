@@ -16,7 +16,7 @@ days:
   events:
   - name: LEC 9
     type: lecture
-    title: 'Climate Data (Guest Lecture: Duncan Watson-Parris)'
+    title: Interaction
 - date: '2026-05-01'
   events:
   - name: LAB 5
@@ -24,5 +24,5 @@ days:
     title: Lab 5
   - name: LEC 10
     type: lecture
-    title: Critiquing Past Final Projects (with Prof Watson-Parris)
+    title: 'Climate Data (Guest Lecture: Duncan Watson-Parris)'
 ---

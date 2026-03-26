@@ -19,7 +19,7 @@ days:
   events:
   - name: LEC 11
     type: lecture
-    title: Interaction
+    title: 'Climate Data (Guest Lecture: Duncan Watson-Parris)'
 - date: '2026-05-08'
   events:
   - name: LEC 12
