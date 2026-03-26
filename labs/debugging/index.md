@@ -2,7 +2,7 @@
 layout: assignment
 title: 'Help Us Help You: Things to try before asking for help'
 parent: '👩‍🔬 Programming Labs'
-released: false
+released: true
 ---
 
 <!-- prettier-ignore-start -->

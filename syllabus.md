@@ -217,7 +217,7 @@ schedule (which is subject to change in any given week):
 
 | Monday  | Tuesday                                           | Wednesday | Thursday | Friday                                        |
 | ------- | ------------------------------------------------- | --------- | -------- | --------------------------------------------- |
-| Lecture |                                                   | Lecture   |          | Lecture                                       |
+| Discussion |                                                   | Lecture   |          | Lecture                                       |
 |         | <span style='color:red'><b>Project due</b></span> |           |          | <span style='color:red'><b>Lab due</b></span> |
 
 ---
