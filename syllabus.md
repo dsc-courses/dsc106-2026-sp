@@ -100,7 +100,7 @@ post instead.**
 
 ### Lectures
 
-Lectures will be held in-person. **Lecture attendance is not strictly required,
+Lectures will be held in-person MWF 1:00-1:50pm in [Catalyst (CTL) 125](https://map.concept3d.com/?id=1005#!ct/18027,20079,58109,58479,63891,70457,79078,97946,99277,99278,70461,79079,97947?d/type:walking;ada:false;to:32.880764,-117.241966,0;endName:Catalyst%20(CTL)?share). **Lecture attendance is not strictly required,
 but is one option for earning your participation grade (detailed below)**.
 Lectures will be podcasted, and lecture slides will be posted before class.
 
@@ -215,10 +215,10 @@ course website for the most up-to-date schedule and instructions.
 To summarize all of the events and deadlines, refer to this general weekly
 schedule (which is subject to change in any given week):
 
-| Monday     | Tuesday                                           | Wednesday | Thursday | Friday                                        |
-| ---------- | ------------------------------------------------- | --------- | -------- | --------------------------------------------- |
-| Discussion |                                                   | Lecture   |          | Lecture                                       |
-|            | <span style='color:red'><b>Project due</b></span> |           |          | <span style='color:red'><b>Lab due</b></span> |
+| Monday  | Tuesday                                           | Wednesday | Thursday | Friday                                        |
+| ------- | ------------------------------------------------- | --------- | -------- | --------------------------------------------- |
+| Lecture |                                                   | Lecture   |          | Lecture                                       |
+|         | <span style='color:red'><b>Project due</b></span> |           |          | <span style='color:red'><b>Lab due</b></span> |
 
 ---
 

@@ -3,7 +3,7 @@ layout: assignment
 title: 'Lab 4: JavaScript II'
 lab: 4
 parent: '👩‍🔬 Programming Labs'
-released: true
+released: false
 ---
 
 # Lab 4: JavaScript II
