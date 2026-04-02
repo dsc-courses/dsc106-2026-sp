@@ -19,6 +19,7 @@ days:
       - name: LEC 2
         type: lecture
         title: Data & Image Models
+        url: lectures/02-DSC106-DataImageModels.pdf
       - name: LAB 1
         type: lab
         title: Lab 1
