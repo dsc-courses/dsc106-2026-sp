@@ -17,11 +17,13 @@ days:
       - name: LEC 5
         type: lecture
         title: Color
+        url: https://canvas.ucsd.edu/courses/75492/modules
   - date: "2026-04-17"
     events:
       - name: LEC 6
         type: lecture
         title: JavaScript
+        url: https://canvas.ucsd.edu/courses/75492/modules
       - name: LAB 3
         type: lab
         title: Lab 3

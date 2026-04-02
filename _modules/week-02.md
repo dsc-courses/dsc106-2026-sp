@@ -17,11 +17,13 @@ days:
       - name: LEC 3
         type: lecture
         title: (In)Effective Visual Encoding
+        url: https://canvas.ucsd.edu/courses/75492/modules
   - date: "2026-04-10"
     events:
       - name: LEC 4
         type: lecture
         title: Perception
+        url: https://canvas.ucsd.edu/courses/75492/modules
       - name: LAB 2
         type: lab
         title: Lab 2
