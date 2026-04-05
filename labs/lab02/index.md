@@ -55,7 +55,7 @@ This lab assumes you have already completed [Lab 1](../lab01/), as we will use t
 {: .note }
 You do not need to create a new repository for Lab 2, simply work on the same repository you created for Lab 1.
 
-## [Slides](./slides/)
+## [Slides](./slides/){:target="\_blank"}
 
 Make sure to read the notes on each slide as well!
 
