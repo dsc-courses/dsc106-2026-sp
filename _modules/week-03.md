@@ -12,6 +12,7 @@ days:
       - name: PROJ 1
         type: proj
         title: "Project 1: Expository Visualization"
+        url: ../projects/project1
   - date: "2026-04-15"
     events:
       - name: LEC 5
