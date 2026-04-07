@@ -29,5 +29,5 @@ days:
       - name: LAB 2
         type: lab
         title: Lab 2
-        url: ../projects/project1/
+        url: ../labs/lab2/
 ---
