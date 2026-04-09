@@ -20,6 +20,12 @@ days:
         type: lecture
         title: (In)Effective Visual Encoding
         url: https://canvas.ucsd.edu/courses/75492/modules
+  - date: "2026-04-09"
+    events:
+      - name: BONUS
+        type: lecture
+        title: How will Project 1 be graded?
+        url: lectures/106-week02-proj01.pdf
   - date: "2026-04-10"
     events:
       - name: LEC 4
