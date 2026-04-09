@@ -26,6 +26,7 @@ days:
         type: lecture
         title: How will Project 1 be graded?
         url: lectures/106-week02-proj01.pdf
+        podcast: https://youtu.be/rxLEitdQtIU
   - date: "2026-04-10"
     events:
       - name: LEC 4
