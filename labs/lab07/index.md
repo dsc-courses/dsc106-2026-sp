@@ -3,7 +3,7 @@ layout: assignment
 title: 'Lab 7: Geospatial Visualizations'
 lab: 7
 parent: '👩‍🔬 Programming Labs'
-released: false
+released: ture
 ---
 
 # Lab {{ page.lab }}: Geospatial visualizations
