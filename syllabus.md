@@ -136,6 +136,8 @@ expectations for a particular week:
    2. Describe the strengths of this particular visualization.
    3. Describe the weaknesses of this particular visualization.
 
+   ⚠️ Posts that do not explicitly reference a specific lecture concept from the current or previous week will not receive credit.
+
 ⚠️If you choose to fulfill lecture participation through option 2, you must
 make a **public** post on Piazza under the Critiques category. In the title of
 your post or response, clearly state that it is being used as an opportunity to
