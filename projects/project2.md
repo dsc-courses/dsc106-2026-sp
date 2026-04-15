@@ -21,9 +21,9 @@ due: 'Tue April 28, 11:59pm PT'
 > 
 >This is a group assignment (3–4 members per group).
 > 
-> **Checkpoint Due: Tue 10/21, by 11:59pm**
+> **Checkpoint Due: Tue 4/21, by 11:59pm**
 >
-> **Complete Project Due: Tue 10/28, by 11:59pm**
+> **Complete Project Due: Tue 4/28, by 11:59pm**
 
 <details open markdown="block">
   <summary>
