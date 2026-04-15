@@ -124,7 +124,7 @@ by Christine Chan—was widely considered to be misleading.
 
 ## Submission Details
 
-This is a group assignment (3–4 members per group). Each group of 3–4 students should submit one shared submission on behalf of all members. Please make sure to include every group member’s full name and UCSD email address in the submission. There is a checkpoint submission due on **Tuesday, October 21, by 11:59 PM**. Your completed assignment is due on **Tuesday, October 28, by 11:59 PM.**.
+This is a group assignment (3–4 members per group). Each group of 3–4 students should submit one shared submission on behalf of all members. Please make sure to include every group member’s full name and UCSD email address in the submission. There is a checkpoint submission due on **Tuesday, April 21, by 11:59 PM**. Your completed assignment is due on **Tuesday, April 28, by 11:59 PM.**.
 
 ### Checkpoint Submission
 
