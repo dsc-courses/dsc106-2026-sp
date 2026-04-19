@@ -27,6 +27,25 @@
 	}  */
 }
 
+#css-reactive {
+	background: transparent;
+	color: inherit;
+
+	pre {
+		font-size: 70%;
+		box-shadow: 0 0 0 .15em white;
+	}
+
+	.demo-target {
+		font-size: 150%;
+
+		input {
+			scale: 2;
+			transform-origin: bottom left;
+		}
+	}
+}
+
 #npm {
 	color-scheme: dark;
 	background: oklch(45% 45% 0);
