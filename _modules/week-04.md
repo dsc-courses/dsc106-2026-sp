@@ -19,6 +19,7 @@ days:
       - name: LEC 7
         type: lecture
         title: D3.js Part 1
+        url: ../labs/lab04/
   - date: "2026-04-24"
     events:
       - name: LAB 4
@@ -27,5 +28,5 @@ days:
       - name: LEC 8
         type: lecture
         title: D3.js Part 2
-        url: ../labs/lab04/
+        
 ---
