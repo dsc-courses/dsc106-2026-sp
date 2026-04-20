@@ -9,28 +9,31 @@ function getLanguage (element) {
 	return canonical ?? language;
 }
 
-Inspire.for("iframe.browser[data-result]", iframe => {
-	let parent = iframe.parentElement;
-	let codes = [...parent.querySelectorAll("pre > code")].map(code => ({ language: getLanguage(code), code: code.textContent }));
-	let code = Object.groupBy(codes, o => o.language);
+function populateResultIframes () {
+	for (let iframe of document.querySelectorAll("iframe.browser[data-result]")) {
+		let parent = iframe.parentElement;
+		let codes = [...parent.querySelectorAll("pre > code")].map(code => ({ language: getLanguage(code), code: code.textContent }));
+		let code = Object.groupBy(codes, o => o.language);
 
-	for (let language in code) {
-		code[language] = code[language].map(o => o.code).join("\n");
+		for (let language in code) {
+			code[language] = code[language].map(o => o.code).join("\n");
+		}
+
+		let html = code.html ?? iframe.closest("[data-result-html]")?.dataset.resultHtml ?? "";
+		let css = `<style>
+			:root {
+				font-size: 200%;
+			}
+
+			button, input, textarea, select {
+				font-size: inherit;
+			}
+			${code.css ?? ""}
+		</style>`;
+		let js = code.js ? `<script type="module">${code.js}</script>` : "";
+
+		iframe.srcdoc = `${ css }${ js }${ html }`;
 	}
+}
 
-	let html = code.html ?? iframe.closest("[data-result-html]")?.dataset.resultHtml ?? "";
-	let css = `<style>
-		:root {
-			font-size: 200%;
-		}
-
-		button, input, textarea, select {
-			font-size: inherit;
-		}
-		${code.css ?? ""}
-	</style>`;
-	let js = code.js ? `<script type="module">${code.js}</script>` : "";
-
-	iframe.srcdoc = `${ css }${ js }${ html }`;
-});
-
+document.addEventListener("DOMContentLoaded", populateResultIframes);
