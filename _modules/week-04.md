@@ -41,4 +41,5 @@ days:
       - name: LEC 8
         type: lecture
         title: D3.js Part 2
+        url: lectures/08-DSC106-D3-part2.pdf
 ---
