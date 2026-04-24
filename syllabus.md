@@ -100,7 +100,7 @@ post instead.**
 
 ### Lectures
 
-Lectures will be held in-person MWF 1:00-1:50pm in [Catalyst (CTL) 125](https://map.concept3d.com/?id=1005#!ct/18027,20079,58109,58479,63891,70457,79078,97946,99277,99278,70461,79079,97947?d/type:walking;ada:false;to:32.880764,-117.241966,0;endName:Catalyst%20(CTL)?share). **Lecture attendance is not strictly required,
+Lectures will be held in-person MWF 1:00-1:50pm in [Catalyst (CTL) 125](<https://map.concept3d.com/?id=1005#!ct/18027,20079,58109,58479,63891,70457,79078,97946,99277,99278,70461,79079,97947?d/type:walking;ada:false;to:32.880764,-117.241966,0;endName:Catalyst%20(CTL)?share>). **Lecture attendance is not strictly required,
 but is one option for earning your participation grade (detailed below)**.
 Lectures will be podcasted, and lecture slides will be posted before class.
 
@@ -129,7 +129,6 @@ expectations for a particular week:
    the Critiques category that hasn't already been shared during
    class, labs, or projects.** To receive credit, the critique needs to have at
    least 3 paragraphs of around 3-4 sentences each. The three paragraphs should:
-
    1. Summarize the visualization and describe how it connects to a lecture
       concept from the current week or the previous week. If a dataset for the
       visualization is publicly available, provide a link.
@@ -225,7 +224,7 @@ To avoid confusion, end each team meeting with a written list of deliverables:
 who is responsible for each task, and when it is due. If a serious team issue
 arises, that written record will help us understand what your team agreed to
 and how to support you. You can preview how citizenship ratings affect project
-grades on the [Team Grading Preview](./projects/team_grading_preview) page.
+grades on the [Team Grading Preview](../projects/team_grading_preview) page.
 
 ### Final Project Showcase
 
@@ -249,10 +248,10 @@ course website for the most up-to-date schedule and instructions.
 To summarize all of the events and deadlines, refer to this general weekly
 schedule (which is subject to change in any given week):
 
-| Monday  | Tuesday                                           | Wednesday | Thursday | Friday                                        |
-| ------- | ------------------------------------------------- | --------- | -------- | --------------------------------------------- |
+| Monday     | Tuesday                                           | Wednesday | Thursday | Friday                                        |
+| ---------- | ------------------------------------------------- | --------- | -------- | --------------------------------------------- |
 | Discussion |                                                   | Lecture   |          | Lecture                                       |
-|         | <span style='color:red'><b>Project due</b></span> |           |          | <span style='color:red'><b>Lab due</b></span> |
+|            | <span style='color:red'><b>Project due</b></span> |           |          | <span style='color:red'><b>Lab due</b></span> |
 
 ---
 
