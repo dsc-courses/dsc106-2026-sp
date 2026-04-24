@@ -193,6 +193,40 @@ instructors, who will work with you and your partner to improve the situation.
 encouraged to discuss all assignments with others at a conceptual level in
 office hours and study groups.**
 
+### Team Feedback Process
+
+Starting with Project 2, every team project will include a required team
+feedback form submitted alongside the project. This form is about **team
+citizenship**, not raw contribution. In this course, team citizenship means
+doing what you agreed to do by the time you agreed to do it, and communicating
+clearly and early if your availability or progress changes.
+
+We may adjust individual project grades when there are documented team
+citizenship issues, including:
+
+- lack of communication or disrespectful communication;
+- missing team meetings without a valid excuse;
+- failing to complete agreed-upon tasks on time without prior communication.
+
+We will **not** adjust grades simply because work was unequal, because teammates
+contributed in different ways, or because your team chose a different workflow.
+Your team may decide how often to meet, what communication tools to use, and
+what internal deadlines to set, but those expectations should be made explicit.
+
+The team feedback form is a required part of each team-project submission. If
+you do not submit it, that will be treated like an incomplete project
+submission and may use slip days in the same way as other missing project
+components. If you give a teammate a low rating, you must provide a brief
+written explanation; unexplained low ratings may be disregarded. In serious
+cases, course staff may ask for evidence such as written deliverables or
+message history.
+
+To avoid confusion, end each team meeting with a written list of deliverables:
+who is responsible for each task, and when it is due. If a serious team issue
+arises, that written record will help us understand what your team agreed to
+and how to support you. You can preview how citizenship ratings affect project
+grades on the [Team Grading Preview](./projects/team_grading_preview) page.
+
 ### Final Project Showcase
 
 At the end of the quarter, we will have a Final Project Showcase where you will
