@@ -17,6 +17,7 @@ days:
       - name: LEC 9
         type: lecture
         title: Interaction
+        url: lectures/09-DSC106-Interaction.pdf
   - date: "2026-05-01"
     events:
       - name: LAB 5
