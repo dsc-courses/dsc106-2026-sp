@@ -49,7 +49,7 @@ addresses, and PIDs** of each team member, along with a **concise title for your
 interactive visualization**. The visualization title need not be exact, **just a
 rough title should be a good start**. If you are looking for project partners,
 please post to Piazza to find classmates with similar interests! **You should
-submit your team registration by Friday 5/01, 5:00 pm.** Please ensure that the
+submit your team registration by Friday 5/01, 11:59 pm.** Please ensure that the
 team has been finalized before filling the form, and that the details are
 correct.
 
