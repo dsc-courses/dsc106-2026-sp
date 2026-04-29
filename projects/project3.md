@@ -43,13 +43,13 @@ For this assignment, you should work in teams of **3-4 students**. You might
 want to find project partners that you will continue to work with for the final
 project.
 
-As soon as you have formed a team and chosen a dataset, submit the [team
-registration form][link5]. Your form must include **the names, UCSD email
+As soon as you have formed a team and chosen a dataset, submit the team registration form on GradeScope.
+Your form must include **the names, UCSD email
 addresses, and PIDs** of each team member, along with a **concise title for your
 interactive visualization**. The visualization title need not be exact, **just a
 rough title should be a good start**. If you are looking for project partners,
 please post to Piazza to find classmates with similar interests! **You should
-submit your team registration by Mon 11/03, 11:59 pm.** Please ensure that the
+submit your team registration by Friday 5/01, 5:00 pm.** Please ensure that the
 team has been finalized before filling the form, and that the details are
 correct.
 
@@ -125,7 +125,7 @@ The assignment is out of 14 points possible. Submissions that squarely meet the 
 
 ### Team Registration
 
-Submit your [team registration form][link5] by **Mon 11/03, 11:59 PM**.
+Submit your team submission form on GradeScope by **Friday 5/01, 11:59 PM**.
 
 ### Checkpoint Submission
 
