@@ -186,6 +186,11 @@ Example notebook 2: [Simple GOES Demo][goes_simple]
 [link11]: https://nbviewer.jupyter.org/github/oceanhackweek/ohw-tutorials/blob/OHW20/10-satellite-data-access/goes-cmp-netcdf-zarr.ipynb
 [goes_simple]: https://github.com/dsc-courses/dsc106-2025-fa/blob/main/lectures/climate-lecture/Simple%20GOES%20demo.ipynb
 
+**Video walkthrough:** [CMIP6 Data Tutorial][link_video]
+{: .note }
+This video tutorial demonstrates working with the CMIP6 dataset as an example. Similar approaches can be applied to explore the other datasets (GOES and MODIS) provided in this project.
+[link_video]: https://youtu.be/bCU35iVjol4
+
 ### NASA MODIS (MODerate Resolution Imaging Spectroradiometer) Satellite Imagery
 
 The MODIS dataset provides global daily satellite imagery of Earth’s surface and atmosphere collected by NASA’s Terra and Aqua satellites. It includes measurements of vegetation, ocean color, land temperature, and aerosols spanning more than two decades.
