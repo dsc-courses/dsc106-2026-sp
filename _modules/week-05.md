@@ -27,5 +27,6 @@ days:
         url: ../labs/lab05/
       - name: LEC 10
         type: lecture
-        title: "Climate Data (Guest Lecture: Duncan Watson-Parris)"
+        title: "Climate Datasets (Guest Lecture: Duncan Watson-Parris)"
+        url: lectures/10-DSC106-climate-datasets-duncan-watson-parris.pdf
 ---
