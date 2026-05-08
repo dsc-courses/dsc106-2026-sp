@@ -25,9 +25,18 @@ days:
         url: lectures/11-DSC106-climate-research-duncan-watson-parris.pdf
   - date: "2026-05-08"
     events:
-      - name: LEC 12
+      - name: LEC 12a
+        type: lecture
+        title: Project 1 Awards
+        url: lectures/106-proj01-awards.pdf
+      - name: LEC 12b
+        type: lecture
+        title: How will Project 3 be graded?
+        url: lectures/106-proj03-advice.pdf
+      - name: LEC 12c
         type: lecture
         title: Maps
+        url: lectures/12-DSC106-Maps.pdf
       - name: LAB 6
         type: lab
         title: Lab 6
