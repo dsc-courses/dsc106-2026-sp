@@ -7,6 +7,7 @@ days:
       - name: DISC 7
         type: disc
         title: Disc 7
+        url: https://docs.google.com/presentation/d/1NfvQnDQdS9NoIDZSXkvK5EZ0vFZEKzgyqf5AvjL1Po8/edit?usp=sharing
   - date: "2026-05-12"
     events:
       - name: PROJ 3
