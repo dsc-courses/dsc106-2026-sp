@@ -79,8 +79,8 @@ as long as you fulfill the requirements.
 
 The final project consists of the following milestones:
 
-- **Team Formation Form (Fri 5/15, 5:00 pm, No Slip Days)**. Submit the Team Formation Google Form to register your team for the final project. Every team must submit this form — even if you are continuing with the same team from Project 3.
-Anyone who is not part of a team or has not submitted the form by Friday, November 14 at 1:00 PM will be randomly assigned to a team. This is a strict deadline and no excuses will be made. Complete the registration form (one per team., [Registration Link][link8])
+- **Team Formation Form (Fri 5/15, 5:00 pm, No Slip Days)**. Submit the Team Formation Gradescope assignment to register your team for the final project. **Every team must submit this form — even if you are continuing with the same team from Project 3.**
+Anyone who is not part of a team or has not submitted the form by Friday, May 14 at 5:00 PM will be randomly assigned to a team. This is a strict deadline and no excuses will be made. 
 
 - **Proposal (Tue 5/19, 11:59pm, Can Use Slip Days)**. Propose your chosen topic, dataset(s), and team members. We need the following information in the project proposal:
 
@@ -99,7 +99,6 @@ Apart from the team registration form, please also submit the Gradescope assignm
 
 - **Final Project Showcase (Thurs 6/11, 11:30am-2:30pm)**. We will host a showcase for DSC 106 on Tue Thurs 6/11, 11:30am-2:30pm. All students are required to attend the showcase.
 
-[link8]: https://docs.google.com/forms/d/e/1FAIpQLSdHXHgpTQMfSqoPeoKDePG9q5C2Re8rzx3U5C47VyCsTAfxJA/viewform?usp=publish-editor
 
 ## Project Deliverables
 
