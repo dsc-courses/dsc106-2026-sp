@@ -18,6 +18,7 @@ days:
       - name: LEC 13
         type: lecture
         title: Narrative
+        url: lectures/13-DSC106-Narrative.pdf
   - date: "2026-05-15"
     events:
       - name: LEC 14
