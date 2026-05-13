@@ -121,7 +121,7 @@ Be sure that your video communicates how your visualization designs enable a bet
 
 Please carefully read the [video production guide][video] for details on how to design and record your video. Your videos should be in MPEG4 (.mp4, .m4v) format. Use appropriate compression to ensure your video file is not unnecessarily large. You will post videos online, so we encourage you to put your best face forward to the world!
 
-Your demo video must be published on YouTube. In addition you must submit a URL linking to your video via Gradescope by Tues 12/02, 11:59pm. We will have a video showcase during our final lecture session.
+Your demo video must be published on YouTube. In addition you must submit a URL linking to your video via Gradescope by Tues 6/02, 11:59pm. We will have a video showcase during our final lecture session.
 
 {: .note}
 Please do not enable the option for YouTube Kids while uploading the video as it can't be added to playlists.
