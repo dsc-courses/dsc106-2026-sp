@@ -22,9 +22,14 @@ days:
         url: lectures/13-DSC106-Narrative.pdf
   - date: "2026-05-15"
     events:
-      - name: LEC 14
+      - name: LEC 14a
+        type: lecture
+        title: Project 2 Awards
+        url: lectures/106-proj02-awards-sp26.pdf
+      - name: LEC 14b
         type: lecture
         title: Animation
+        url: lectures/14-DSC106-Animation.pdf
       - name: LAB 7
         type: lab
         title: Lab 7
