@@ -20,6 +20,7 @@ days:
       - name: LEC 15
         type: lecture
         title: Uncertainty & Review
+        url: lectures/15-DSC106-Uncertainty.pdf
   - date: "2026-05-22"
     events:
       - name: LAB 8
@@ -27,5 +28,5 @@ days:
         title: Lab 8
       - name: LEC 16
         type: lecture
-        title: Final Project Feedback
+        title: How will the Demo Video and Final Project be Graded?
 ---
