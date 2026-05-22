@@ -29,4 +29,5 @@ days:
       - name: LEC 16
         type: lecture
         title: How will the Demo Video and Final Project be Graded?
+        url: lectures/106-final-project-advice.pdf
 ---
