@@ -17,6 +17,7 @@ days:
       - name: LEC 17
         type: lecture
         title: Final Project Feedback
+        url: lectures/17-DSC106-Final-Project-Feedback-1.pdf
   - date: "2026-05-29"
     events:
       - name: LEC 18
