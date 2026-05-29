@@ -23,4 +23,5 @@ days:
       - name: LEC 18
         type: lecture
         title: Final Project Feedback
+        url: lectures/18-DSC106-Final-Project-Feedback-2.pdf
 ---
