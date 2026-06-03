@@ -16,10 +16,11 @@ days:
     events:
       - name: LEC 19
         type: lecture
-        title: Video Showcase
+        title: Mock Showcase
+        url: lectures/19-DSC106-Mock-Showcase.pdf
   - date: "2026-06-05"
     events:
       - name: LEC 20
         type: lecture
-        title: Mock Showcase
+        title: Video Showcase
 ---
