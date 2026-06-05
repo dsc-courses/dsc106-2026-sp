@@ -44,6 +44,8 @@ In your submission for the lab, along with the link to your github repo and webs
 
 4. Share the most interesting thing you learned from this lab.
 
+Please record your screen on your laptop, not your phone. One easy way to do this is to start a Zoom meeting, screenshare your browser, and record to your computer. Make sure to explain each part verbally as you go through the video, not through written text.
+
 **Videos longer than 1 minute will be trimmed to 1 minute before we grade, so
 make sure your video is 1 minute or less.**
 
