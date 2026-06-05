@@ -20,7 +20,12 @@ days:
         url: lectures/19-DSC106-Mock-Showcase.pdf
   - date: "2026-06-05"
     events:
-      - name: LEC 20
+      - name: LEC 20A
+        type: lecture
+        title: Project 3 Award Winners
+        url: lectures/106-proj03-awards-sp26.pdf
+      - name: LEC 20B
         type: lecture
         title: Video Showcase
+        url: lectures/20-DSC106-Video-Showcase.pdf
 ---
